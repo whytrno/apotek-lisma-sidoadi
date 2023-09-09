@@ -31,6 +31,7 @@
             <a href="#">Produk dan layanan</a>
             <a href="/saran-dan-kritik">Saran dan kritik </a>
             <a href="/tentang">Tentang Kami</a>
+            <a href="https://wa.me/6281212504070">Hubungi Kami Melalui Whatsapp</a>
         </div>
     </div>
     <div>
